@@ -291,3 +291,7 @@ li a:hover {
 .icon{
   width: 25px;
 }
+.pullquote{
+  font-size: 35px;
+  font-style: italic;
+}
